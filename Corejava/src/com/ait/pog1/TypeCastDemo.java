@@ -17,7 +17,7 @@ public class TypeCastDemo {
 		
 	    //implicit
 		
-		int c=10;
+		int c=12;
 		double s=c;
 		System.out.println(s);
 		
