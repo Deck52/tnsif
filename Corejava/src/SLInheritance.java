@@ -1,4 +1,4 @@
-import com.ait.pog5.Student;
+import com.ait.day5.Inheritance.Student;
 
 public class SLInheritance {
 
