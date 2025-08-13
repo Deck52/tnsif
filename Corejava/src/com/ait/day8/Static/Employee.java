@@ -4,7 +4,7 @@ public class Employee {
 	private String name;
 	private int id;
 	
-	static String companyName="Atria";
+	static String collegeName="Atria";
 
 	public Employee(String name, int id) {
 		
@@ -14,7 +14,7 @@ public class Employee {
 
 	@Override
 	public String toString() {
-		return "Employee [name=" + name + ", id=" + id +", Company= "+companyName+"]";
+		return "Employee [name=" + name + ", id=" + id +", College= "+collegeName+"]";
 	}
 	
 	
