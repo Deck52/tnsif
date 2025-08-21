@@ -1,4 +1,4 @@
-package com.ait.exceptionhandling;
+package com.ait.day9.exceptionhandling;
 
 public class UserDemo {
 	public static void main(String[] args) {

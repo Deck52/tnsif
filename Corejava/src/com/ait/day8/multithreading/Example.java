@@ -1,4 +1,4 @@
-package com.ait.multithreading;
+package com.ait.day8.multithreading;
 
 public class Example {
 	static synchronized void display() {

@@ -1,4 +1,4 @@
-package com.ait.exceptionhandling;
+package com.ait.day9.exceptionhandling;
 
 import java.util.Scanner;
 

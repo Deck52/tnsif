@@ -1,4 +1,4 @@
-package com.ait.lambdaexpression;
+package com.ait.day9.lambdaexpression;
 
 public class MainMethod {
 
